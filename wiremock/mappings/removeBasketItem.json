@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "DELETE",
+    "urlPattern": "/basket-api/basket/items.*",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      }
+    }
+  },
+  "response": {
+    "status": 202,
+    "headers": {
+		"Content-Type": "application/json"
+	}
+  }
+}

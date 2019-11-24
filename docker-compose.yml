@@ -1,0 +1,8 @@
+wiremock:
+    image: rodolpheche/wiremock
+    command: --local-response-templating  --verbose
+    container_name: wiremock
+    ports:
+    - "1000:8080"
+    volumes:
+    - $PWD/wiremock:/home/wiremock

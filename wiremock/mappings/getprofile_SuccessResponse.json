@@ -1,0 +1,17 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/profile"
+  },
+  "response": {
+    "status": 500,
+    "transformers": ["response-template"],
+    "bodyFileName": "getCustomerProfile.vm",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
+
+

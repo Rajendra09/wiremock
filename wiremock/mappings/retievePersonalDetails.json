@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/account/personal-details.*",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "retrievePersonalDetails.json",
+    "headers": {
+		"Content-Type": "application/json"
+	}
+  }
+}

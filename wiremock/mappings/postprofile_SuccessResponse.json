@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/profile/.*",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      }
+    }
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "createProfile.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

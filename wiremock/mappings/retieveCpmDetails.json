@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/myaccount-gateway/cpm/consents.*"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "retrieveCpmDetails.json",
+    "headers": {
+		"Content-Type": "application/json"
+	}
+  }
+}

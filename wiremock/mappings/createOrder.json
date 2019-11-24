@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/order.*",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      }
+    }
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "createOrder.json",
+    "headers": {
+		"Content-Type": "application/json"
+	}
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"address":"{{request.requestLine.pathSegments.[4]}}",
+	"brand": "HCOM",
+	"optinType": "MARKETING",
+	"optinInfo": {
+		"optinStatus": "OPT_IN",
+		"optinDate": 1542626645536,
+		"optoutDate": 1542626812069,
+		"createdDate": 1542626645539,
+		"updatedDate": 1542626812073
+	}
+}

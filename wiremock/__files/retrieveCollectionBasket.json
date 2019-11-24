@@ -1,0 +1,99 @@
+{
+    "basket": {
+        "id": "40629765",
+        "items": [
+            {
+                "quantity": 1,
+                "itemId": "2159625776",
+                "collectable": true,
+                "price": 59.99,
+                "thumbnail": "118-9802759-AZP777T.jpg",
+                "title": "Duracell Plus Power Alkaline AA Batteries - Pack of 4",
+                "sku": "980/2759",
+                "deliverable": true,
+                "part_number": "9802759",
+                "max_quantity": 10
+            }
+        ],
+        "collection_eligible": true,
+        "pay_online": false,
+        "contains_tu_items": false,
+        "delivery_eligible": true,
+        "delivery_charge": 3.95
+    },
+    "totals": {
+        "basket": {
+            "total": 59.99,
+            "saving": 0,
+            "total_with_saving": 59.99
+        },
+        "items": [
+            {
+                "total": 59.99,
+                "saving": 0,
+                "part_number": "9802759",
+                "total_with_saving": 59.99
+            }
+        ]
+    },
+    "availability": {
+        "basket": {
+            "collection": {
+                "collectable": true,
+                "collection_tab_summary_message_key": "collectionAllAvailable",
+                "collection_none_items_available": false,
+                "collection_partial_items_count": 0,
+                "collection_all_items_available": true,
+                "collection_basket_fulfillable": true,
+                "collection_localised": true,
+                "collectionSomeItemsAvailable": false
+            },
+            "delivery": {
+                "deliverable": true,
+                "delivery_some_items_available": false,
+                "delivery_localised": false,
+                "delivery_none_items_available": false,
+                "delivery_all_items_available": false,
+                "delivery_basket_fulfillable": true,
+                "delivery_partial_items_count": 0,
+                "delivery_tab_summary_message_key": ""
+            },
+            "all_items_available": true,
+            "items_moving": false,
+            "recommend_store": false,
+            "recommend_faster_store": false
+        },
+        "items": [
+            {
+                "collection": {
+                    "available": true,
+                    "requested_quantity": 1,
+                    "available_quantity": 1,
+                    "lead_time": "2018-09-17T12:15:55Z",
+                    "lead_time_message": "Order now, collect immediately",
+                    "availability_status": "Available"
+                },
+                "delivery": null,
+                "part_number": "9802759"
+            }
+        ]
+    },
+    "localisation": {
+        "collect_from": "9044",
+        "deliver_to": ""
+    },
+    "stores": {
+        "current": {
+            "number": "9044",
+            "name": "Stevenage",
+            "postcode": "SG1 1XN"
+        },
+        "recommended": null,
+        "faster": null
+    },
+    "user": {
+        "id": "12345",
+        "login_status": "Registered",
+        "price_changed": false
+    }
+}

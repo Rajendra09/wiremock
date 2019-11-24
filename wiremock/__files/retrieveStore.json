@@ -1,0 +1,12 @@
+{
+    "store_id": "9044",
+    "legacy_name": "testStore-123",
+    "town": "Stevenage",
+    "county": null,
+    "postcode": "DA1 5TT",
+    "address_line": "69 Temple hill dartford",
+    "location": {
+        "longitude": "-0.199480",
+        "latitude": "56.891770"
+    }
+}

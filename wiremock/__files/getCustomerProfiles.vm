@@ -1,0 +1,21 @@
+{
+"data":
+[
+{
+"customerId": "3485737536",
+"email": "test.practice@gmail.com"
+},
+{
+"customerId": "3485737537",
+"email": "test.practice1@gmail.com"
+},
+{
+"customerId": "3485737538",
+"email": "test.practice2@gmail.com"
+},
+{
+"customerId": "3485737539",
+"email": "test.practice3@gmail.com"
+}
+]
+}

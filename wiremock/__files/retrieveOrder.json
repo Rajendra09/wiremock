@@ -1,0 +1,33 @@
+{
+    "order_number": "12345",
+    "creation_date": "2018-08-24T09:01:04.105Z",
+    "customer": {
+        "id": "12345",
+        "contact": {
+            "mobile_phone": "07425252525",
+            "email": "checkout_api_automation@test.cpm"
+        }
+    },
+    "price_info": {
+        "total_charged": {
+            "amount": 10.99,
+            "currency": "GBP"
+        },
+        "total_promotion_savings": {
+            "amount": 0,
+            "currency": "GBP"
+        },
+        "total_customer_discount": {
+            "amount": 0,
+            "currency": "GBP"
+        }
+    },
+    "source": {
+        "channel": "WEB",
+        "ip_address": "127.0.0.1"
+    },
+    "status": {
+        "status": "order_placed",
+        "date": "2018-08-24T09:01:05.199Z"
+    }
+}

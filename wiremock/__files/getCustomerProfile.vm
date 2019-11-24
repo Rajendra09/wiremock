@@ -1,0 +1,7 @@
+{
+	"customerId": "3485737536",
+	"email": "test.practice@gmail.com",
+	"firstName": "{{randomValue length=15 type='ALPHABETIC'}}",
+	"lastName": "account",
+    "phoneNumber": "0765433332222"
+}
